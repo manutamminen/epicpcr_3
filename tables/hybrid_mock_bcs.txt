@@ -1,0 +1,27 @@
+Sample	BC	Taxonomy	Count
+RhodoMock16S_S13	ACACTGCTAGACCAGCGCCG	k:Bacteria(1.00),p:Actinobacteriota(0.92),c:Coriobacteriia(0.28),o:Coriobacteriales(0.28),f:Atopobiaceae(0.28),g:Atopobium(0.28),s:uncultured bacterium(0.82)	1
+RhodoMock16S_S13	ACACTGCTAGACCAGCGCCG	d:Mock1_16S(1.00),p:Mock1_16S(1.00),c:Mock1_16S(1.00),o:Mock1_16S(1.00),f:Mock1_16S(1.00),g:Mock1_16S(1.00),s:Mock1_16S(1.00)	1
+WWRhodoMock16S_S14	ACCTTCCCTTTTGACCTCAT	k:Bacteria(1.00),p:Acidobacteriota(0.46),c:Blastocatellia(0.41),o:Pyrinomonadales(0.41),f:Pyrinomonadaceae(0.41),g:RB41(0.41),s:uncultured bacterium(0.55)	2
+WWRhodoMock16S_S14	ACCTTCCCTTTTGACCTCAT	d:Mock1_16S(1.00),p:Mock1_16S(1.00),c:Mock1_16S(1.00),o:Mock1_16S(1.00),f:Mock1_16S(1.00),g:Mock1_16S(1.00),s:Mock1_16S(1.00)	1
+WWMock16S_S15	ACGTTGTGCGTTACTAATAC	k:Bacteria(1.00),p:Patescibacteria(1.00),c:Gracilibacteria(1.00),o:Absconditabacteriales (SR1)(1.00),f:uncultured candidate division SR1 bacterium(0.79)	1
+WWMock16S_S15	ACGTTGTGCGTTACTAATAC	d:Mock1_16S(1.00),p:Mock1_16S(1.00),c:Mock1_16S(1.00),o:Mock1_16S(1.00),f:Mock1_16S(1.00),g:Mock1_16S(1.00),s:Mock1_16S(1.00)	1
+WWMock16S_S15	AGTATTATGGTGCCTGCTCC	k:Bacteria(1.00),p:Patescibacteria(1.00),c:Gracilibacteria(1.00),o:JGI 0000069-P22(1.00),f:uncultured prokaryote(0.73)	9
+WWMock16S_S15	AGTATTATGGTGCCTGCTCC	d:Mock2_16S(1.00),p:Mock2_16S(1.00),c:Mock2_16S(1.00),o:Mock2_16S(1.00),f:Mock2_16S(1.00),g:Mock2_16S(1.00),s:Mock2_16S(1.00)	5
+WWMock16S_S15	AGTATTATGGTGCCTGCTCC	d:Mock1_16S(1.00),p:Mock1_16S(1.00),c:Mock1_16S(1.00),o:Mock1_16S(1.00),f:Mock1_16S(1.00),g:Mock1_16S(1.00),s:Mock1_16S(1.00)	4
+WWRhodoMock16S_S14	CTCGTTGTGTAGGCGGGGAC	k:Bacteria(1.00),p:Campylobacterota(1.00),c:Campylobacteria(1.00),o:Campylobacterales(1.00),f:Arcobacteraceae(1.00),g:Arcobacter(0.71),s:Arcobacter sp. R-28214(0.71)	1
+WWRhodoMock16S_S14	CTCGTTGTGTAGGCGGGGAC	d:Mock1_16S(1.00),p:Mock1_16S(1.00),c:Mock1_16S(1.00),o:Mock1_16S(1.00),f:Mock1_16S(1.00),g:Mock1_16S(1.00),s:Mock1_16S(1.00)	1
+RhodoMock16S_S13	TATCTGTTTTTGCCTCAAGG	k:Bacteria(1.00),p:Acidobacteriota(0.46),c:Blastocatellia(0.41),o:Pyrinomonadales(0.41),f:Pyrinomonadaceae(0.41),g:RB41(0.41),s:uncultured bacterium(0.55)	1
+RhodoMock16S_S13	TATCTGTTTTTGCCTCAAGG	d:Mock1_16S(1.00),p:Mock1_16S(1.00),c:Mock1_16S(1.00),o:Mock1_16S(1.00),f:Mock1_16S(1.00),g:Mock1_16S(1.00),s:Mock1_16S(1.00)	1
+RhodoMock18S_S16	ACGTCTGCTCCTCTGTACCT	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	1
+RhodoMock18S_S16	ACGTCTGCTCCTCTGTACCT	d:Mock1_18S(1.00),p:Mock1_18S(1.00),c:Mock1_18S(1.00),o:Mock1_18S(1.00),f:Mock1_18S(1.00),g:Mock1_18S(1.00),s:Mock1_16S(1.00)	1
+RhodoMock18S_S16	ACGTCTGCTCCTCTGTACCT	d:Mock4_18S_16S(1.00),p:Mock4_18S_16S(1.00),c:Mock4_18S_16S(1.00),o:Mock4_18S_16S(1.00),f:Mock4_18S_16S(1.00),g:Mock4_18S_16S(1.00),s:Mock4_16S(1.00)	1
+WWRhodoMock18S_S17	ATGGTCCTAGAGTGCGTTTA	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	3
+WWMock18S_S18	ATGGTCCTAGAGTGCGTTTA	d:Mock1_18S(1.00),p:Mock1_18S(1.00),c:Mock1_18S(1.00),o:Mock1_18S(1.00),f:Mock1_18S(1.00),g:Mock1_18S(1.00),s:Mock1_16S(1.00)	2
+WWRhodoMock18S_S17	CAGTAACTAAGTTGTTTCCT	k:Eukaryota(1.00),p:Amorphea(1.00),c:Amoebozoa(1.00),o:Archamoebae(1.00),f:Incertae Sedis(1.00),g:Rhizomastix(1.00),s:Ripella platypodia(1.00)	1
+WWRhodoMock18S_S17	CAGTAACTAAGTTGTTTCCT	d:Mock1_18S(1.00),p:Mock1_18S(1.00),c:Mock1_18S(1.00),o:Mock1_18S(1.00),f:Mock1_18S(1.00),g:Mock1_18S(1.00),s:Mock1_16S(1.00)	1
+WWRhodoMock18S_S17	CATCTGGAAACGGTGAGCGG	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	7
+WWRhodoMock18S_S17	CATCTGGAAACGGTGAGCGG	d:Mock2_18S(1.00),p:Mock2_18S(1.00),c:Mock2_18S(1.00),o:Mock2_18S(1.00),f:Mock2_18S(1.00),g:Mock2_18S(1.00),s:Mock2_16S(1.00)	4
+WWRhodoMock18S_S17	CATCTGGAAACGGTGAGCGG	d:Mock1_18S(1.00),p:Mock1_18S(1.00),c:Mock1_18S(1.00),o:Mock1_18S(1.00),f:Mock1_18S(1.00),g:Mock1_18S(1.00),s:Mock1_16S(1.00)	3
+WWMock18S_S18	TTAAGGTGTTGCATTAAAAG	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	3
+WWRhodoMock18S_S17	TTAAGGTGTTGCATTAAAAG	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	1
+WWMock18S_S18	TTAAGGTGTTGCATTAAAAG	d:Mock2_18S(1.00),p:Mock2_18S(1.00),c:Mock2_18S(1.00),o:Mock2_18S(1.00),f:Mock2_18S(1.00),g:Mock2_18S(1.00),s:Mock2_16S(1.00)	1

@@ -1,0 +1,30 @@
+Sample	Eukaryotic_taxonomy	n
+RhodoMagn	k:Eukaryota(1.00),p:Amorphea(0.98),c:Obazoa(0.98),o:Opisthokonta(0.98),f:Nucletmycea(0.98),g:Fungi(0.98),s:Dikarya(0.97)	1
+RhodoMagn	k:Eukaryota(1.00),p:Amorphea(1.00),c:Obazoa(1.00),o:Opisthokonta(1.00),f:Nucletmycea(1.00),g:Fungi(1.00),s:Dikarya(0.97)	1
+RhodoMagn	k:Eukaryota(1.00),p:Amorphea(1.00),c:Obazoa(1.00),o:Opisthokonta(1.00),f:Nucletmycea(1.00),g:Fungi(1.00),s:Dikarya(1.00)	1
+RhodoMagn	k:Eukaryota(1.00),p:Archaeplastida(0.87),c:Chloroplastida(0.87),o:Charophyta(0.87),f:Phragmoplastophyta(0.87),g:Streptophyta(0.87),s:Embryophyta(0.87)	1
+RhodoMagn	k:Eukaryota(1.00),p:Archaeplastida(1.00),c:Chloroplastida(1.00),o:Charophyta(1.00),f:Phragmoplastophyta(1.00),g:Streptophyta(1.00),s:Embryophyta(1.00)	1
+RhodoMagn	k:Eukaryota(1.00),p:Cryptophyceae(0.87),c:Cryptomonadales(0.87),o:Rhodomonas(0.87),f:Rhodomonas sp. CCMP743(0.87)	1
+RhodoMagn	k:Eukaryota(1.00),p:Cryptophyceae(0.89),c:Cryptomonadales(0.89),o:Rhodomonas(0.89),f:Rhodomonas sp. CCMP743(0.75)	1
+RhodoMagn	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	1
+RhodoMagn	k:Eukaryota(1.00),p:Discoba(1.00),c:Jakobida(1.00),o:uncultured dinoflagellate(1.00)	1
+WWRhodo	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	7
+WWRhodo	k:Eukaryota(1.00),p:Archaeplastida(1.00),c:Chloroplastida(1.00),o:Charophyta(1.00),f:Phragmoplastophyta(1.00),g:Streptophyta(1.00),s:Embryophyta(1.00)	6
+WWRhodo	k:Eukaryota(1.00),p:Archaeplastida(0.87),c:Chloroplastida(0.87),o:Charophyta(0.87),f:Phragmoplastophyta(0.87),g:Streptophyta(0.87),s:Embryophyta(0.87)	5
+WWRhodo	k:Eukaryota(1.00),p:Archaeplastida(0.92),c:Chloroplastida(0.92),o:Charophyta(0.92),f:Phragmoplastophyta(0.92),g:Streptophyta(0.92),s:Embryophyta(0.92)	5
+WWRhodo	k:Eukaryota(1.00),p:Cryptophyceae(0.87),c:Cryptomonadales(0.87),o:Rhodomonas(0.87),f:Rhodomonas sp. CCMP743(0.87)	5
+WWRhodo	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas marina(0.91)	5
+WWRhodo	k:Eukaryota(1.00),p:Archaeplastida(0.94),c:Chloroplastida(0.94),o:Charophyta(0.94),f:Phragmoplastophyta(0.94),g:Streptophyta(0.94),s:Embryophyta(0.94)	4
+WWRhodo	k:Eukaryota(1.00),p:Amorphea(0.96),c:Obazoa(0.96),o:Opisthokonta(0.96),f:Nucletmycea(0.95),g:Fungi(0.95),s:Dikarya(0.95)	3
+WWRhodo	k:Eukaryota(1.00),p:Archaeplastida(0.93),c:Chloroplastida(0.93),o:Charophyta(0.93),f:Phragmoplastophyta(0.93),g:Streptophyta(0.92),s:Embryophyta(0.92)	3
+WWRhodo	k:Eukaryota(1.00),p:Discoba(1.00),c:Jakobida(1.00),o:uncultured dinoflagellate(1.00)	3
+WWRhodo	k:Eukaryota(1.00),p:Archaeplastida(0.31),c:Chloroplastida(0.31),o:Charophyta(0.31),f:Phragmoplastophyta(0.31),g:Streptophyta(0.31),s:Embryophyta(0.31)	1
+WWRhodo	k:Eukaryota(1.00),p:Archaeplastida(0.99),c:Chloroplastida(0.99),o:Charophyta(0.99),f:Phragmoplastophyta(0.99),g:Streptophyta(0.98),s:Embryophyta(0.98)	1
+WWRhodo	k:Eukaryota(1.00),p:Cryptophyceae(0.72),c:Cryptomonadales(0.71),o:Geminigera(0.05),f:uncultured freshwater eukaryote(0.08)	1
+WWRhodo	k:Eukaryota(1.00),p:Cryptophyceae(0.76),c:Cryptomonadales(0.76),o:Rhodomonas(0.76),f:Rhodomonas marina(0.68)	1
+WWRhodo	k:Eukaryota(1.00),p:Cryptophyceae(0.88),c:Cryptomonadales(0.88),o:Rhodomonas(0.85),f:Rhodomonas sp. CCMP743(0.85)	1
+WWRhodo	k:Eukaryota(1.00),p:Cryptophyceae(0.98),c:Cryptomonadales(0.96),o:Rhodomonas(0.96),f:Rhodomonas sp. CCMP743(0.96)	1
+WWRhodo	k:Eukaryota(1.00),p:Cryptophyceae(0.98),c:Cryptomonadales(0.98),o:Rhodomonas(0.98),f:Rhodomonas sp. CCMP743(0.83)	1
+WWRhodo	k:Eukaryota(1.00),p:SAR(0.79),c:Rhizaria(0.22),o:Retaria(0.09),f:Acantharia(0.04),g:Acantharea Group II(0.04),s:uncultured eukaryote(0.16)	1
+WWRhodo	k:Eukaryota(1.00),p:SAR(1.00),c:Alveolata(1.00),o:Ciliophora(1.00),f:Intramacronucleata(1.00),g:Conthreep(1.00),s:Oligohymenophorea(1.00)	1
+WWRhodoMagn	k:Eukaryota(1.00),p:Cryptophyceae(1.00),c:Cryptomonadales(1.00),o:Rhodomonas(1.00),f:Rhodomonas sp. CCMP743(1.00)	1
