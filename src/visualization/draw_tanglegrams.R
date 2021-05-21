@@ -116,7 +116,8 @@ euk_tip_labels <-
 
 
 plot_bact_hist <- function(sample, color) {
-  plot(NULL, xlim = c(0, 1e4), ylim = c(0, 1), type='n', axes=FALSE, ann=FALSE)
+  max_val <- max(bact_tip_percs$Count)
+  plot(NULL, xlim = c(0, max_val), ylim = c(0, 1), type='n', axes=FALSE, ann=FALSE)
   bact_tip_percs %>%
     filter(Sample == sample) %>%
     with(walk2(Ix, Count, ~ lines(c(0, .y), c(.x, .x), col=color)))
@@ -124,7 +125,8 @@ plot_bact_hist <- function(sample, color) {
 
 
 plot_euk_hist <- function(sample, color) {
-  plot(NULL, xlim = c(-1e4, 0), ylim = c(0, 1), type='n', axes=FALSE, ann=FALSE)
+  max_val <- max(euk_tip_percs$Count)
+  plot(NULL, xlim = c(-max_val, 0), ylim = c(0, 1), type='n', axes=FALSE, ann=FALSE)
   euk_tip_percs %>%
     filter(Sample == sample) %>%
     with(walk2(Ix, Count, ~ lines(c(1, (1 - .y)), c(.x, .x), col=color)))

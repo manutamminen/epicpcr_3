@@ -49,7 +49,8 @@ tip_coord <- function(tree) {
 
 
 plot_hist <- function(tip_percs, sample, color) {
-  plot(NULL, xlim = c(0, 1e4),
+  max_val <- max(tip_percs$Count)
+  plot(NULL, xlim = c(0, max_val),
        ylim = c(0, 1),
        type='n',
        axes=FALSE,
