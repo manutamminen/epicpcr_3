@@ -117,11 +117,21 @@ Normalised connections
 
 ## Mock standard curves
 
+<table>
+<tr>
+<td>
 Bacteria
-<td valign="top">
-<img src="../figures/bact_mock_curve.png" >
 </td>
+<td>
 Eukaryotes
-<td valign="top">
-<img src="../figures/euk_mock_curve.png" >
 </td>
+</tr>
+<tr>
+<td valign="top">
+<img src="../figures/bact_mock_curve.png">
+</td>
+<td valign="top">
+<img src="../figures/euk_mock_curve.png">
+</td>
+</tr>
+</table>
