@@ -403,6 +403,21 @@ rule draw_tanglegrams:
   script:
     "src/visualization/draw_tanglegrams.R"
 
+#
+#########
+# Draw mock standard curves
+#########
+
+rule draw_mock_curves:
+  input:
+    "data/final/16S_bc_tax.txt",
+    "data/final/18S_bc_tax.txt"
+  output:
+    "figures/bact_mock_curve.png",
+    "figures/euk_mock_curve.png",
+  script:
+    "src/visualization/plot_mocks.R"
+
 
 #########
 # Prepare markdown report
@@ -420,7 +435,9 @@ rule report:
     "figures/magn_tanglegram.png",
     "figures/magn_tanglegram_normalised.png",
     "figures/mock_tanglegram.png",
-    "figures/mock_tanglegram_normalised.png"
+    "figures/mock_tanglegram_normalised.png",
+    "figures/bact_mock_curve.png",
+    "figures/euk_mock_curve.png"
   output:
     "docs/index.md",
   script:

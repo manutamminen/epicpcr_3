@@ -99,3 +99,10 @@ Normalised connections
 <td valign="top"><img src="../figures/mock_tanglegram_normalised.png" ></td>
 
 
+## Mock standard curves
+
+Bacteria
+<td valign="top"><img src="../figures/bact_mock_curve.png" ></td>
+
+Eukaryotes
+<td valign="top"><img src="../figures/euk_mock_curve.png" ></td>
